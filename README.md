@@ -15,7 +15,7 @@ public class Sabyasachi {
 
     String name     = "Sabyasachi Ghosh";
     String username = "SabyaGh";
-    String role     = "Student";
+    String role     = "Student","Java Developer";
     String[] skills = {"HTML", "CSS", "Java"};
     String goal     = "Keep learning, keep building!";
 
@@ -59,11 +59,6 @@ public class Sabyasachi {
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SabyaGh&theme=flat&no-frame=true&column=6&margin-w=8" />
-</p>
 
 ---
 
